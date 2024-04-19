@@ -13,9 +13,9 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "GuruBot~eeYQTMje",
+      "description": "your session ID",
       "required": true,
-      "value": ""
+      "value": "GuruBot~eeYQTMje"
     },
     "MODE": {
       "description": "mode private",
